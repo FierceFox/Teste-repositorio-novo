@@ -3,7 +3,7 @@ create a new repository on the command line
 echo "# Teste-repositorio-novo" >> README.md
 git init
 git add README.md
-git commit -m "primeiro comentario"
+git commit -m "commit ignore"
 git branch -M main
 git remote add origin https://github.com/FierceFox/Teste-repositorio-novo.git
 git push -u origin main
